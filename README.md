@@ -1,7 +1,7 @@
 # Moveit
 
 <p>
-  <img src="https://github.com/reizonsantos/moveit/blob/main/img/initialMovit.png" width="350">
+  <img src="https://github.com/reizonsantos/moveit/blob/main/img/initialMovit.png" width="600">
 </p>
 
 
@@ -56,25 +56,25 @@ Here's a example on how you can clone this repository and download the project i
 
 * This is main page where have informations about your profile, experience bar, a countdown and a button where if you click you will start the count.
 <p>
-  <img src="https://github.com/reizonsantos/moveit/blob/main/img/initialMovit.png" width="350">
+  <img src="https://github.com/reizonsantos/moveit/blob/main/img/initialMovit.png" width="600">
 </p>
 
 * After you click to start the countdown, this is how the button will stay.
 <p>
-  <img src="https://github.com/reizonsantos/moveit/blob/main/img/cancelContdown.png" width="350">
+  <img src="https://github.com/reizonsantos/moveit/blob/main/img/cancelContdown.png" width="600">
 </p>
 
 * When the countdown ends, a pop-up will appear with information about the new challenger.
 <p>
-  <img src="https://github.com/reizonsantos/moveit/blob/main/img/popupNewChallenger.png" width="350">
+  <img src="https://github.com/reizonsantos/moveit/blob/main/img/popupNewChallenger.png" width="600">
 </p>
 
 * When the countdown ends, a new challenge will appear, showing two options: Failed or Completed. 
 <p>
-  <img src="https://github.com/reizonsantos/moveit/blob/main/img/newChallenger.png" width="350">
+  <img src="https://github.com/reizonsantos/moveit/blob/main/img/newChallenger.png" width="600">
 </p>
 
 * When you complete the challenges, you will gain experience and when the experience bar reaches 100% you will pass the level. 
 <p>
-  <img src="https://github.com/reizonsantos/moveit/blob/main/img/levelUp.png" width="350">
+  <img src="https://github.com/reizonsantos/moveit/blob/main/img/levelUp.png" width="600">
 </p>
